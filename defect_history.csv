@@ -1,0 +1,6 @@
+Defect_ID,Test_Case_Name,Module,Severity,Priority,Status,Detected_Release,Created_Date
+DEF-101,test_login,Authentication,Critical,P1,Closed,v1.2,1/10/2024
+DEF-102,test_login,Authentication,High,P1,Closed,v1.3,2/5/2024
+DEF-103,test_signup,User Management,Medium,P2,Closed,v1.3,2/20/2024
+DEF-104,test_signup,User Management,Low,P3,Closed,v1.4,3/15/2024
+DEF-105,test_logout,Session Management,Low,P3,Closed,v1.4,3/28/2024
